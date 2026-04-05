@@ -6,7 +6,7 @@ This repository contains all the practice activities I did while learning and ex
 
 ## 📂 What is inside?
 
-The repository includes different examples covering:
+The repository includes different topics for fileSystems covering:
 
 - **Creating files**
   - Using `fs.writeFile` to create new files
@@ -35,14 +35,16 @@ The repository includes different examples covering:
    ```bash
    git clone https://github.com/ProducerG-hub/fileSystem-Node.js.git
 --------------------------------
-2.Navigate into the project folder
-cd fileSystem-Node.js
+2.**Navigate into the project folder**
+```bash
+cd fileSystem-Node
 --------------------------------------
-3.Run the example files using Node.js
+3.**Run the example files using Node.js**
 node filename.js
 --------------------------------------
- 4.Purpose
-This repository is part of my Node.js learning journey, focusing mainly on working with files and directories using the built-in fs module.
+ **4.Purpose**
+Thisrepository is part of my Node.js learning journey, focusing mainly on working with files and directories using the built-in fs module.
 ---------------------------------------
-Author: Mwakabuta G (Mlue Tech)
+Author: Gwamaka Mwakabuta 
+GitHub:https://github.com/ProducerG-hub
    
