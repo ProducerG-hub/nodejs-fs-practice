@@ -33,10 +33,10 @@ The repository includes different topics for fileSystems covering:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ProducerG-hub/fileSystem-Node.js.git
+   git clone https://github.com/ProducerG-hub/nodejs-fs-practice.git
 --------------------------------
 2.**Navigate into the project folder**
-  cd fileSystem-Node 
+  cd nodejs-fs-practice 
 
 3.**Run the example files using Node.js**
 node filename.js
@@ -46,4 +46,5 @@ Thisrepository is part of my Node.js learning journey, focusing mainly on workin
 
 **Author**: Gwamaka Mwakabuta 
 **GitHub**:https://github.com/ProducerG-hub
+**Email**:gwamakamwakabuta@gmail.com
    
