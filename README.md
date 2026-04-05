@@ -36,15 +36,14 @@ The repository includes different topics for fileSystems covering:
    git clone https://github.com/ProducerG-hub/fileSystem-Node.js.git
 --------------------------------
 2.**Navigate into the project folder**
-```bash
-cd fileSystem-Node
---------------------------------------
+  cd fileSystem-Node 
+
 3.**Run the example files using Node.js**
 node filename.js
---------------------------------------
- **4.Purpose**
+
+ 4.**Purpose**
 Thisrepository is part of my Node.js learning journey, focusing mainly on working with files and directories using the built-in fs module.
----------------------------------------
-Author: Gwamaka Mwakabuta 
-GitHub:https://github.com/ProducerG-hub
+
+**Author**: Gwamaka Mwakabuta 
+**GitHub**:https://github.com/ProducerG-hub
    
